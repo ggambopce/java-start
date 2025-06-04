@@ -1,7 +1,7 @@
 package javaStart3Condition;
 
 public class Condition1 {
-
+    // if, if-else, else
     public static void main(String[] args) {
         int age = 10; // 사용자 나이
 
