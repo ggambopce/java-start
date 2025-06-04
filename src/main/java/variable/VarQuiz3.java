@@ -12,5 +12,4 @@ public class VarQuiz3 {
         boolean b = true;
         System.out.println(b);
     }
-
 }
