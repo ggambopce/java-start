@@ -1,4 +1,4 @@
-package variable;
+package javaStart1Variable;
 
 /** 문제2
  * 다음과 같은 작업을 수행하는 프로그램을 작성하세요.
